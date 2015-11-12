@@ -1,0 +1,11 @@
+{
+  "name": "gulp-ghpage-practice",
+  "version": "1.0.0",
+  "description": "Learn how to publich a GitHub Page with gulp",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jellynina",
+  "license": "MIT"
+}
